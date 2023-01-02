@@ -15,10 +15,8 @@ Entrance sensors
 - add openning sensor
 - add camera
 
-Connect all to the raspberryby wire or wifi. Connect to the inernet in the cellphone.
+Connect all to the raspberry by wire or wifi. Connect to the internet using the cellphone.
 
-Connect to a server in aws.
-
-Send message by telegram if anudoor is opennned.
+Connect to a server in aws, so this one send message is the propoer trigger is activated (open door, PIR change), and make video in that case.
 
 
